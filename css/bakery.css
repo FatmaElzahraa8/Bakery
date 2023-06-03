@@ -1,0 +1,228 @@
+.DIV1{
+    width: 100%; 
+    background-image: url(../images/drew-coffman-1872.jpg);
+    background-size: 100% 100% ;
+    display: inline-block;
+    
+    }
+    .nav1{
+        text-align: center; 
+     
+        }
+    .bar { 
+        display: inline-block;
+        float: left;
+    }
+    
+    .nav{
+        font-size: 30px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-style: italic;
+        display: inline-block;
+
+    
+    }
+    a{
+        color: rgb(248, 227, 227);
+       
+    }
+    .welcome {
+         text-align: center;
+         width: 700px;
+         font-size: 40px;
+         color: rgb(230, 225, 225);
+         margin: auto;
+         margin-top: 50px;
+    }
+    .w{ 
+        font-size: 32px;
+    }
+    button { width: 150px; height: 70;
+        font-size: large;
+    
+    }
+
+/* .div1{
+   
+    background-image: url(../images/drew-coffman-1872.jpg);
+    background-size: 100% 100% ;
+    display: inline-block;
+    width: 100%; 
+
+}
+
+.text{
+    text-align: center; 
+    margin-left: 50%;
+    
+}
+
+.bar{
+    display: inline-block;  
+    margin-left: 40px 50px;
+    float: left;
+}
+   
+
+.home{
+    justify-content: space-between;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+    /* font-size: 25px;
+    font-style: italic;
+    display: inline-block;
+    width: 50%;  */
+
+/* }
+a{
+    color:white;
+    margin-left: 50;
+    
+    
+}  */
+.welc{
+    text-align: center;
+     width: 700px;
+     font-size: 50px;
+     color: white;
+     margin: auto;
+     margin-top: 60px;
+
+} */
+.quote{
+
+    font-size: 22px;
+    color: rgb(185, 182, 182);
+  
+}
+
+button{
+    width: 150px; height: 50;
+    font-size: large;
+    
+}
+
+
+.wwr{
+    margin-top: 50px;
+    width: 100%;
+}
+
+.wwr1{
+    
+    display: inline-block;
+    width: 35%;
+    }
+  
+
+.wwr1 img { 
+margin-left: 50px;    width: 100%;
+}
+
+.text {
+     display: inline-block;
+     margin-left: 300px ; ;
+     width:  40%;
+     font-weight: 600;
+     font-size: 25px;
+     font-style: unset;
+     color: rgb(54, 46, 46);
+}
+
+.our{
+    width: 100%;
+    background-color: rgb(212, 212, 248);
+     margin-top: 45px;
+    display:inline-block ;
+}
+.our2 img { 
+    width:100%; display: inline-block;
+}
+
+.ourl{
+    display: inline-block;
+    font-size:x-large;
+    font-weight: 700;
+    font-style: unset;
+    margin-left: 60px;
+    width: 45%;
+    color: rgb(49, 46, 46);
+}
+
+.our2{
+
+margin-left: 55px;
+    width: 45%;
+    display: inline-block;
+}
+
+.ob{  
+    width: 90%;
+   margin: auto;
+   margin-top: 50px;
+    text-align: center;
+    font-weight: 900;
+font-size: 29px;
+font-style: unset;
+color: rgb(105, 99, 99);
+}
+
+
+.inf img { 
+    
+    width: 90%;}
+.inf{ 
+    width: 33.33%;
+    float: left;
+}
+
+
+.cl{ clear: both;}
+
+.phone0{
+    margin-top: 50px;  background-color: rgb(233, 233, 248);
+}
+
+
+.phone2{
+    border: 10px solid rgb(13, 14, 13);
+    width: 50% ; height: 80%;
+    background-image: url(../images/contact-details-map.png) , url(../images/dark.png);
+    background-repeat: no-repeat no-repeat; 
+    background-size: 100% 100% , 20%  ;
+    background-position:  60% 40% ;
+    margin-left: auto;
+}
+
+.phone{
+    width: 40%;
+    float:left ;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.Last0{
+    margin-top: 50px;
+    width: 100%;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    font-size: x-large;
+font-style: italic ;  font-weight: 100;
+color: white;
+background-color: #797775;
+}
+.Aboutus{
+margin-left: 50px;    width: 20%;
+    float: left;
+}
+
+
+.end{ background-color: #1d1a16;
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    padding-bottom: 50px; 
+    padding-top: 50px;
+}
+.Endimg{width: 40px;}
+
+
